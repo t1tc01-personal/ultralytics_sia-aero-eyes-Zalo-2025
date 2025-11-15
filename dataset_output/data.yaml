@@ -1,0 +1,13 @@
+names:
+- Backpack
+- Jacket
+- Laptop
+- Lifering
+- Mobilephone
+- Person1
+- WaterBottle
+nc: 7
+
+train: train/images
+val: val/images
+test: test/images
