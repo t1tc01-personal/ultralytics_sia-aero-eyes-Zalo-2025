@@ -1,5 +1,6 @@
 # dataset
 dataset_output/*/*
+dataset_output_balanced/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
